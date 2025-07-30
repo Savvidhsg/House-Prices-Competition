@@ -6,4 +6,4 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 The analysis documented in this notebook resulted in a leaderboard score of 0.126 (rank 869/4527 ). Any score between 0.1 to 0.15 is considered to be a "good" score.
 
-It is a very simple sklearn-xgb-lgb pipeline with not much EDA ( statistical analysis, removing outliers etc.) and not much tuning.
+It is a very simple sklearn-xgb-lgbm pipeline with not much EDA ( statistical analysis, removing outliers etc.) and not much tuning.
